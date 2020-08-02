@@ -100,7 +100,7 @@ Para executar o Battle Mode, siga as instruções:
 
 ## Tecnologias :computer:
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido com a seguinte tecnologia:
 
 - [OpenGL](https://www.opengl.org/)
 
