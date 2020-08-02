@@ -63,21 +63,24 @@ também uma terceira textura, para representar o chão (piso cinza):
   <img src="https://res.cloudinary.com/dqqh1oigi/image/upload/v1592168587/Cen%C3%A1rio_xh4wdp.png" /> </br>
 </p>
 
-Espaço para texto.
+Um outro aspecto que merece destaque em relação aos cenários é que a cada nova partida iniciada, os obstáculos quebráveis 
+(blocos de tijolo) são dispostos no cenário de forma aleatória - compare as Figuras 03 e 04 para notar as diferenças: 
 
 <h6 align="center"> Figura 04 - Aleatoriedade de obstáculos do cenário </h6>
 <p align="center">
   <img src="https://res.cloudinary.com/dqqh1oigi/image/upload/v1592168587/Cen%C3%A1rio1.1_g5wnrn.png" /> </br>
 </p>
 
-Espaço para texto.
+Para atingir o grau máximo de semelhança do Battle Mode, os players foram dispostos em duas extremidades opostas, conforme 
+aponta a Figura 05:
 
 <h6 align="center"> Figura 05 - Disposição dos players </h6>
 <p align="center">
   <img src="https://res.cloudinary.com/dqqh1oigi/image/upload/v1592168587/Cen%C3%A1rio2_mquhbx.png" /> </br>
 </p>
 
-Espaço para texto.
+A Figura 06 apresenta a movimentação do personagem pelo cenário. Note que além do respeito aos obstáculos (é impossível atravessá-lo), 
+o personagem realiza rotações em torno do seu eixo para dar mais dinamicidade ao jogo:
 
 <h6 align="center"> Figura 06 - Movimentação pelo cenário </h6>
 <p align="center">
@@ -90,7 +93,8 @@ Para executar o Battle Mode, siga as instruções:
 
 <p>
   <ol>
-    <li> Espaço para texto </li>
+    <li> Siga as instruções de instalação do OpenGL no link apresentado na seção Tecnologias; </li>
+    <li> Abra a pasta Battle Game e execute o arquivo main.cpp </li>
   </ol>
 </p>
 
